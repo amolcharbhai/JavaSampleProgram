@@ -1,4 +1,9 @@
 package SeleniumSessions;
+/**
+ * @author acharbha
+ * Read properties from Object Repository
+ */
+
 
 import java.io.FileInputStream;
 import java.io.IOException;
